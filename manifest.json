@@ -13,7 +13,7 @@
 		"bots/worldbosshunter/discord.js": "b776f1ff2ebd9b6b807e377588dcdf558edf6912505647dfb20597bf85251bd6",
 		"bots/worldbosshunter/config.example.json": "2feba3ece8f8d568f49349c6ba78d2ba1c32b3a49638dc0edf18d62d19cb94b6",
 		"fakeclientlib/index.js": "4933b354a797d7744b3a58f7448261698e451bb882f66965be223fbf062f9a02",
-		"fakeclientlib/lib/inventory.js": "889bf50504a51c8adcef14c6c7fe6f6c6756751e4b94afb574699db0a1ec81a4  ",
+		"fakeclientlib/lib/inventory.js": "889bf50504a51c8adcef14c6c7fe6f6c6756751e4b94afb574699db0a1ec81a4",
 		"fakeclientlib/lib/me.js": "3cfc2fa52ddc171b28579a0dbe8161e6a8c541315c24edfd95d018806e9be906"
 	},
 	"defs": {
