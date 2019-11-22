@@ -1,0 +1,11 @@
+{
+  "author": "PsykoDev",
+  "description": "",
+  "disableAutoUpdate": false,
+  "name": "BOT1",
+  "servers": [
+    "https://raw.githubusercontent.com/PsykoDev/Bot1/master/"
+  ],
+  "supportUrl": "https://github.com/PsykoDev/Bot1/blob/master/README.md",
+  "version": "1.00.00"
+}

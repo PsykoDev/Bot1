@@ -1,0 +1,27 @@
+{
+	"files": {
+		"bot.js": "119042da4bd521bb0f8a97c78f5c03bdc040ae91f6fa63582265b3db43e255e6",
+		"config.example.json": "466e65f767767c11b08d3a0d83c791ce324b4efe4352a7271c614c7d65f4a14c",
+		"config.json": "981ff385a5d53c2816d79d19691d5b1c2157da5208a3d1bfca561aa0ce06e50a",
+		"login.js": "ece5df438ebdb5cd62c3a332e2f4ec480e98501581bb7cb8106616f32cc27821",
+		"mongo.sh": "4c2c99e445b188d221b15b924cf4cd556514ffe6cb7ad142f843dc2c949ecf51",
+		"worldbossmanager.js": "38f578c555dcd62c93c00a1a40ae5be132adbd6094bbdf3b733d127a813e24c1",
+		"bots/calendar/index.js": "88137347efddd68ca285265aec3b75228f750755870b028a6743b3906d86c1cc",
+		"bots/fish/index.js": "14b195328a42abf034856a1caaac54d804feba8a8c61363ca7c1ccda3125c599",
+		"bots/worldbosshunter/index.js": "37fa5dae4dca37a7acaa8be31ae10bfd01951750c2b88757eabb7dd1c99387e3",
+		"bots/worldbosshunter/bosses.js": "953300eeee42218cbf01a1e81f5c6b8de679f4810ebfcf3e339129e9c21366f0",
+		"bots/worldbosshunter/discord.js": "b776f1ff2ebd9b6b807e377588dcdf558edf6912505647dfb20597bf85251bd6",
+		"bots/worldbosshunter/config.example.json": "2feba3ece8f8d568f49349c6ba78d2ba1c32b3a49638dc0edf18d62d19cb94b6",
+		"fakeclientlib/index.js": "4933b354a797d7744b3a58f7448261698e451bb882f66965be223fbf062f9a02",
+		"fakeclientlib/lib/inventory.js": "889bf50504a51c8adcef14c6c7fe6f6c6756751e4b94afb574699db0a1ec81a4  ",
+		"fakeclientlib/lib/me.js": "3cfc2fa52ddc171b28579a0dbe8161e6a8c541315c24edfd95d018806e9be906"
+	},
+	"defs": {
+		"C_END_MOVIE": 1,
+		"C_REQUEST_RECV_DAILY_TOKEN": 1,
+		"C_REQUEST_USER_PAPERDOLL_INFO": 2,
+		"S_ANSWER_INTERACTIVE": 2,
+		"S_LOGIN": "raw",
+		"S_PLAY_MOVIE": 1
+	}
+}

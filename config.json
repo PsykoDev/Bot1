@@ -1,0 +1,15 @@
+{
+	"botToUse": "fish",
+	"host": "79.110.94.214",
+	"port": 7804,
+	"patchVersion": 8705,
+	"major": 87,
+	"minor": 5,
+	"protocolVersion": 357120,
+	"blackBoxToken": "",
+	"account": {
+		"email": "Psykophone@outlook.fr", 
+		"password": "Asterix1928.", 
+		"character": "name.here"
+	}
+}
